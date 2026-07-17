@@ -3,6 +3,7 @@ import Home from "../pages/Home";
 import About from "../pages/About";
 import LogIn from "../pages/Login";
 import NotFound from "../pages/NotFound";
+import Error404Explained from "../pages/NotfoundExplained";
 import MainRoute from "../layouts/MainLayout";
 import Authlayout from "../layouts/AuthLayout";
 
@@ -20,6 +21,7 @@ function AppRouter() {
         </Route>
 
         <Route path="*" element={<NotFound />} />
+        <Route path="/errors/404" element={<Error404Explained />} />
       </Routes>
     </BrowserRouter>
   );
