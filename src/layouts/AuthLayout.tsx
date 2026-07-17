@@ -4,8 +4,6 @@ function Authlayout() {
   return (
     <>
       <Outlet />
-
-      <p>LOG IN</p>
     </>
   );
 }
