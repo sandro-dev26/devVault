@@ -34,7 +34,7 @@ function LogIn() {
               className="bg-neutral-200 text-neutral-950 p-2 rounded-xl focus:border-none placeholder:text-neutral-800"
             />
             <button
-              className="w-16 mt-2 rounded-xl bg-neutral-200 p-2 hover:bg-neutral-300"
+              className="w-16 mt-2 rounded-xl bg-neutral-200 p-2 text-sm hover:bg-neutral-300"
               onClick={changeVisible}
             >
               {isVisible ? "Hide" : "Show"}
