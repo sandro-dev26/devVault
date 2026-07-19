@@ -29,8 +29,8 @@ function LogIn() {
             </label>
             <input
               type={isVisible ? "text" : "password"}
-              id="username"
-              placeholder="Username"
+              id="password"
+              placeholder="Password"
               className="bg-neutral-200 text-neutral-950 p-2 rounded-xl focus:border-none placeholder:text-neutral-800"
             />
             <button
