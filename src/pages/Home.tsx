@@ -15,6 +15,13 @@ function Home() {
   }, []);
   return (
     <main>
+      <h1 className="flex flex-row items-center gap-2 text-4xl mb-8">
+        <span>
+          <img src="/favicon.svg" className="w-12 h-12" />
+        </span>
+        Dev Vault
+      </h1>
+
       <h2 className="text-2xl">Coding Tecnologies</h2>
 
       <TecnologySection title="Languages" type="language" data={data} />
