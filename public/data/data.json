@@ -1,0 +1,1072 @@
+[
+  {
+    "id": "javascript",
+    "file": "js",
+    "name": "JavaScript",
+    "type": "language",
+    "environment": "frontend",
+    "short_description": "The core scripting language of the web platform.",
+    "description": "JavaScript is a lightweight, interpreted, object-oriented language with first-class functions, most famously known as the scripting language for Web pages.",
+    "svg": "javascript"
+  },
+  {
+    "id": "typescript",
+    "file": "ts",
+    "name": "TypeScript",
+    "type": "language",
+    "environment": "frontend",
+    "short_description": "A strongly typed superset of JavaScript.",
+    "description": "TypeScript builds on top of JavaScript by adding optional static typing, enabling powerful code editing tools, autocomplete, and early bug detection.",
+    "svg": "typescript"
+  },
+  {
+    "id": "python",
+    "file": "py",
+    "name": "Python",
+    "type": "language",
+    "environment": "backend",
+    "short_description": "High-level, human-readable general programming language.",
+    "description": "An interpreted language emphasizing clean syntax and readability, making it incredibly dominant across data science, web backend, scripting, and AI workflows.",
+    "svg": "python"
+  },
+  {
+    "id": "java",
+    "file": "java",
+    "name": "Java",
+    "type": "language",
+    "environment": "backend",
+    "short_description": "Object-oriented, class-based software language.",
+    "description": "A structured language built on the write once, run anywhere principle, powering large-scale corporate platforms, Android architectures, and backend microservices.",
+    "svg": "java"
+  },
+  {
+    "id": "cplusplus",
+    "file": "cpp",
+    "name": "C++",
+    "type": "language",
+    "environment": "desktop",
+    "short_description": "High-performance systems programming language.",
+    "description": "An extension of C providing advanced control over system memory and processing speed, making it the industry standard for game engine, desktop software, and operating systems.",
+    "svg": "cplusplus"
+  },
+  {
+    "id": "csharp",
+    "file": "cs",
+    "name": "C#",
+    "type": "language",
+    "environment": "cross-platform",
+    "short_description": "Modern object-oriented language developed by Microsoft.",
+    "description": "A multi-paradigm programming language running on the .NET framework, widely utilized for commercial enterprise systems, Windows applications, and Unity game engineering.",
+    "svg": "csharp"
+  },
+  {
+    "id": "rust",
+    "file": "rs",
+    "name": "Rust",
+    "type": "language",
+    "environment": "tool",
+    "short_description": "Systems language prioritizing thread safety and performance.",
+    "description": "A modern compiler language that enforces strict memory safety without a garbage collector, highly favored for low-level systems, developer tooling, and CLI software.",
+    "svg": "rust"
+  },
+  {
+    "id": "go",
+    "file": "go",
+    "name": "Go",
+    "type": "language",
+    "environment": "backend",
+    "short_description": "Statically typed compiled language built by Google.",
+    "description": "Commonly known as Golang, it emphasizes concurrent execution pipelines and fast compile speeds, standardizing cloud infrastructure, microservices, and network routing tools.",
+    "svg": "go"
+  },
+  {
+    "id": "php",
+    "file": "php",
+    "name": "PHP",
+    "type": "language",
+    "environment": "backend",
+    "short_description": "Server-side web scripting language.",
+    "description": "A long-standing server language explicitly tailored toward web rendering, acting as the structural base for classic blogging platforms, database scripts, and CMS engines.",
+    "svg": "php"
+  },
+  {
+    "id": "ruby",
+    "file": "rb",
+    "name": "Ruby",
+    "type": "language",
+    "environment": "backend",
+    "short_description": "Dynamic, object-oriented language focused on simplicity.",
+    "description": "A script language prioritizing elegant layout and developer happiness, most frequently combined with web framework setups to construct fast, expressive code environments.",
+    "svg": "ruby"
+  },
+  {
+    "id": "swift",
+    "file": "swift",
+    "name": "Swift",
+    "type": "language",
+    "environment": "mobile",
+    "short_description": "Modern compilation language for Apple operating systems.",
+    "description": "Developed by Apple as a fast, highly secure successor to traditional Objective-C, optimized explicitly for native application rendering across iOS and macOS devices.",
+    "svg": "swift"
+  },
+  {
+    "id": "kotlin",
+    "file": "kt",
+    "name": "Kotlin",
+    "type": "language",
+    "environment": "mobile",
+    "short_description": "Modern cross-platform language for Android platforms.",
+    "description": "A concise, expressive language completely interchangeable with Java structures, recognized by Google as the official standard for native Android application building.",
+    "svg": "kotlin"
+  },
+  {
+    "id": "dart",
+    "file": "dart",
+    "name": "Dart",
+    "type": "language",
+    "environment": "cross-platform",
+    "short_description": "Client-optimized language for multi-platform interfaces.",
+    "description": "An object-oriented language engineered by Google to fuel high-speed, direct UI rendering pipelines across mobile, browser, and desktop deployments from unified bases.",
+    "svg": "dart"
+  },
+  {
+    "id": "html5",
+    "file": "html",
+    "name": "HTML5",
+    "type": "language",
+    "environment": "frontend",
+    "short_description": "Standard hyper-text structure markup for web browsers.",
+    "description": "The fundamental building structure defining structural semantics, layouts, embedding parameters, and interface components across the universal World Wide Web infrastructure.",
+    "svg": "html5"
+  },
+  {
+    "id": "css3",
+    "file": "css",
+    "name": "CSS3",
+    "type": "language",
+    "environment": "frontend",
+    "short_description": "Cascading stylesheet system for markup presentation.",
+    "description": "The style engine governing layout formatting, typographic hierarchies, color palettes, responsive adaptations, and visual interactions across document elements.",
+    "svg": "css3"
+  },
+  {
+    "id": "sql",
+    "file": "sql",
+    "name": "SQL",
+    "type": "language",
+    "environment": "backend",
+    "short_description": "Standard query language for relational databases.",
+    "description": "A declarative data management syntax used to define table properties, manage information schemas, and run calculations inside relational storage engines.",
+    "svg": "sqldeveloper"
+  },
+  {
+    "id": "bash",
+    "file": "sh",
+    "name": "Bash",
+    "type": "language",
+    "environment": "tool",
+    "short_description": "Unix command shell language and scripting engine.",
+    "description": "The terminal configuration language used to navigate system files, orchestrate terminal environment processes, automate DevOps routines, and build developer tools.",
+    "svg": "bash"
+  },
+  {
+    "id": "lua",
+    "file": "lua",
+    "name": "Lua",
+    "type": "language",
+    "environment": "desktop",
+    "short_description": "Lightweight embedded scripting language.",
+    "description": "An ultra-fast, small-footprint extension engine designed to be compiled directly into larger source environments, heavily utilized for game scripting and mod configurations.",
+    "svg": "lua"
+  },
+  {
+    "id": "zig",
+    "file": "zig",
+    "name": "Zig",
+    "type": "language",
+    "environment": "tool",
+    "short_description": "Robust systems language engineered to succeed C structures.",
+    "description": "A high-performance compiling language with no hidden execution steps, operating as a clean, predictable replacement for C while doubling as a drop-in C/C++ build tool.",
+    "svg": "zig"
+  },
+  {
+    "id": "scala",
+    "file": "scala",
+    "name": "Scala",
+    "type": "language",
+    "environment": "backend",
+    "short_description": "Functional language bridging Java runtime parameters.",
+    "description": "A multi-paradigm language merging object systems and functional programming paradigms onto the JVM, popular for concurrent big-data streaming architectures.",
+    "svg": "scala"
+  },
+  {
+    "id": "elixir",
+    "file": "ex",
+    "name": "Elixir",
+    "type": "language",
+    "environment": "backend",
+    "short_description": "Functional language built for scalable network servers.",
+    "description": "Operating on the Erlang virtual engine, this language leverages actor concurrent models to construct massive, real-time distributed application services.",
+    "svg": "elixir"
+  },
+  {
+    "id": "haskell",
+    "file": "hs",
+    "name": "Haskell",
+    "type": "language",
+    "environment": "backend",
+    "short_description": "Strictly pure functional programming language.",
+    "description": "A non-strict, purely functional language based on lambda calculus, using advanced type inference to build deeply mathematical, bug-resistant architectures.",
+    "svg": "haskell"
+  },
+  {
+    "id": "objectivec",
+    "file": "m",
+    "name": "Objective-C",
+    "type": "language",
+    "environment": "mobile",
+    "short_description": "Object-oriented wrapper built upon classic C frameworks.",
+    "description": "The legacy operational programming foundation historically utilized to build applications across macOS and iOS ecosystems before the development of Swift frameworks.",
+    "svg": "objectivec"
+  },
+  {
+    "id": "r-lang",
+    "file": "r",
+    "name": "R",
+    "type": "language",
+    "environment": "backend",
+    "short_description": "Statistical calculation and graphics compilation tool.",
+    "description": "An extensible scripting language used by researchers, data analysts, and academic developers to run complex statistical matrix calculations and visual data graphs.",
+    "svg": "r"
+  },
+  {
+    "id": "matlab",
+    "file": "m",
+    "name": "MATLAB",
+    "type": "language",
+    "environment": "desktop",
+    "short_description": "Matrix calculation and algorithm development platform.",
+    "description": "A proprietary numeric computing language utilized extensively throughout mathematical sciences, control systems engineering, and advanced simulation modeling.",
+    "svg": "matlab"
+  },
+  {
+    "id": "perl",
+    "file": "pl",
+    "name": "Perl",
+    "type": "language",
+    "environment": "tool",
+    "short_description": "Highly capable text manipulation scripting tool.",
+    "description": "A legacy general-purpose scripting language famous for regular expression processing, administrative scripting, system tasks, and data processing.",
+    "svg": "perl"
+  },
+  {
+    "id": "julia",
+    "file": "jl",
+    "name": "Julia",
+    "type": "language",
+    "environment": "backend",
+    "short_description": "High-speed scientific computational scripting language.",
+    "description": "Engineered to deliver execution speeds matching C while retaining simple readable scripting, specifically designed for heavy algorithmic mathematics and machine learning tasks.",
+    "svg": "julia"
+  },
+  {
+    "id": "groovy",
+    "file": "groovy",
+    "name": "Groovy",
+    "type": "language",
+    "environment": "tool",
+    "short_description": "Dynamic script language designed for Java platform setups.",
+    "description": "An organic extension for Java platforms providing powerful scripting capability, frequently applied to build process scripts and configuration files like Gradle automation.",
+    "svg": "groovy"
+  },
+  {
+    "id": "clojure",
+    "file": "clj",
+    "name": "Clojure",
+    "type": "language",
+    "environment": "backend",
+    "short_description": "Modern dynamic dialect of Lisp operating on JVM.",
+    "description": "A functional, immutable Lisp variant running on the Java infrastructure, specialized for robust concurrent data management and clean software designs.",
+    "svg": "clojure"
+  },
+  {
+    "id": "fsharp",
+    "file": "fs",
+    "name": "F#",
+    "type": "language",
+    "environment": "cross-platform",
+    "short_description": "Functional-first compiling framework built for .NET.",
+    "description": "A cross-platform functional programming language that empowers developers to write concise, performant, and maintainable code across corporate enterprise systems.",
+    "svg": "fsharp"
+  },
+  {
+    "id": "nextjs",
+    "file": "ts",
+    "name": "Next.js",
+    "type": "framework",
+    "environment": "frontend",
+    "short_description": "The React framework for production-grade web applications.",
+    "description": "Next.js enables developers to build high-performance web applications by providing native rendering strategies including server-side rendering (SSR), static site generation (SSG), and incremental hydration architectures.",
+    "svg": "nextjs"
+  },
+  {
+    "id": "nestjs",
+    "file": "ts",
+    "name": "NestJS",
+    "type": "framework",
+    "environment": "backend",
+    "short_description": "A progressive Node.js framework for efficient enterprise architectures.",
+    "description": "A strongly typed, TypeScript-first backend framework engineered with an out-of-the-box architecture, utilizing modules, controllers, and providers heavily inspired by Angular structural paradigms.",
+    "svg": "nestjs"
+  },
+  {
+    "id": "tailwindcss",
+    "file": "css",
+    "name": "Tailwind CSS",
+    "type": "framework",
+    "environment": "frontend",
+    "short_description": "A utility-first CSS framework for rapid interface development.",
+    "description": "A low-level styling framework that provides highly composable utility classes to build completely customized user interfaces directly within HTML and component markup without writing traditional stylesheets.",
+    "svg": "tailwindcss"
+  },
+  {
+    "id": "angular",
+    "file": "ts",
+    "name": "Angular",
+    "type": "framework",
+    "environment": "frontend",
+    "short_description": "Component-based web framework developed by Google.",
+    "description": "A rigorous, batteries-included engineering framework that provides robust built-in modules for client-side routing, state management, dependency injection, and declarative form parsing.",
+    "svg": "angular"
+  },
+  {
+    "id": "vuejs",
+    "file": "js",
+    "name": "Vue.js",
+    "type": "framework",
+    "environment": "frontend",
+    "short_description": "The progressive, approachable JavaScript framework.",
+    "description": "A versatile frontend framework built upon an incrementally adoptable core layer, utilizing virtual DOM rendering alongside a reactive data-binding engine for dynamic user interfaces.",
+    "svg": "vuejs"
+  },
+  {
+    "id": "express",
+    "file": "js",
+    "name": "Express",
+    "type": "framework",
+    "environment": "backend",
+    "short_description": "Minimalist and flexible Node.js web application framework.",
+    "description": "The long-standing industry standard micro-framework providing a robust set of minimal middleware features to spin up lightweight API endpoints, routing protocols, and HTTP servers.",
+    "svg": "express"
+  },
+  {
+    "id": "flutter",
+    "file": "dart",
+    "name": "Flutter",
+    "type": "framework",
+    "environment": "cross-platform",
+    "short_description": "Google's open-source multi-platform UI software toolkit.",
+    "description": "A comprehensive UI framework that uses the Dart language to compile high-fidelity graphics directly down to native machine code across iOS, Android, macOS, Windows, and web targets from a single source file.",
+    "svg": "flutter"
+  },
+  {
+    "id": "spring-boot",
+    "file": "java",
+    "name": "Spring Boot",
+    "type": "framework",
+    "environment": "backend",
+    "short_description": "Enterprise-grade Java application framework.",
+    "description": "An open-source, highly opinionated extension of the foundational Spring ecosystem that streamlines the config parsing and deployment of standalone, production-ready microservices.",
+    "svg": "spring"
+  },
+  {
+    "id": "django",
+    "file": "py",
+    "name": "Django",
+    "type": "framework",
+    "environment": "backend",
+    "short_description": "High-level Python web framework encouraging clean design.",
+    "description": "A batteries-included server-side framework following the Model-Template-View architectural style, loading integrated toolkits for built-in database ORMs, migrations, admin backends, and user authorization structures.",
+    "svg": "django"
+  },
+  {
+    "id": "laravel",
+    "file": "php",
+    "name": "Laravel",
+    "type": "framework",
+    "environment": "backend",
+    "short_description": "The PHP web framework with expressive, elegant syntax.",
+    "description": "A full-featured MVC backend environment providing comprehensive tools for Eloquent ORM operations, automated routing architectures, session state queues, and robust user authentication handling.",
+    "svg": "laravel"
+  },
+  {
+    "id": "rails",
+    "file": "rb",
+    "name": "Ruby on Rails",
+    "type": "framework",
+    "environment": "backend",
+    "short_description": "Full-stack MVC software framework optimized for developer speed.",
+    "description": "A server-side framework operating strictly on the convention over configuration design pillar, drastically accelerating MVP generation through intuitive database migrations and code generation tools.",
+    "svg": "rails"
+  },
+  {
+    "id": "dotnetcore",
+    "file": "cs",
+    "name": "ASP.NET Core",
+    "type": "framework",
+    "environment": "cross-platform",
+    "short_description": "Open-source high-performance cloud application infrastructure.",
+    "description": "Microsoft's modular web engine designed from the ground up to spin up high-throughput API microservices, real-time web engines, and modern cloud applications across Linux, macOS, and Windows setups.",
+    "svg": "dotnetcore"
+  },
+  {
+    "id": "sveltekit",
+    "file": "ts",
+    "name": "SvelteKit",
+    "type": "framework",
+    "environment": "frontend",
+    "short_description": "The official application framework powered by Svelte.",
+    "description": "A high-performance full-stack web framework that uses a compiler instead of a virtual DOM, shifting heavy UI lifting straight into build-time steps for lightning-fast loads.",
+    "svg": "svelte"
+  },
+  {
+    "id": "fastify",
+    "file": "js",
+    "name": "Fastify",
+    "type": "framework",
+    "environment": "backend",
+    "short_description": "An ultra-fast, low-overhead Node.js web framework.",
+    "description": "A highly performant modern web engine optimized to process maximum schema throughput with minimal processing overhead, utilizing an integrated plugin ecosystem architecture.",
+    "svg": "fastify"
+  },
+  {
+    "id": "nuxtjs",
+    "file": "js",
+    "name": "Nuxt.js",
+    "type": "framework",
+    "environment": "frontend",
+    "short_description": "The intuitive Vue framework for web production.",
+    "description": "A higher-level modular application framework built directly on top of Vue.js configs to resolve routing layouts, static file generation, and optimized server-side rendering setups automatically.",
+    "svg": "nuxtjs"
+  },
+  {
+    "id": "gin",
+    "file": "go",
+    "name": "Gin",
+    "type": "framework",
+    "environment": "backend",
+    "short_description": "High-speed HTTP web framework written in Go.",
+    "description": "A lightweight, performance-focused Go micro-framework featuring a custom Martini-like routing structure that achieves incredibly high speed through low memory allocation metrics.",
+    "svg": "go"
+  },
+  {
+    "id": "quarkus",
+    "file": "java",
+    "name": "Quarkus",
+    "type": "framework",
+    "environment": "backend",
+    "short_description": "A Kubernetes-native Java framework for serverless designs.",
+    "description": "A modern Java framework tailored for GraalVM and HotSpot environments, optimized specifically for fast boot times and tiny memory footprints inside container-driven cloud models.",
+    "svg": "quarkus"
+  },
+  {
+    "id": "blazor",
+    "file": "cs",
+    "name": "Blazor",
+    "type": "framework",
+    "environment": "frontend",
+    "short_description": "Build interactive web UIs using C# instead of JavaScript.",
+    "description": "A frontend application UI system from Microsoft that lets developers compile client-side interface components using C# via native WebAssembly execution pipelines directly inside the browser framework.",
+    "svg": "blazor"
+  },
+  {
+    "id": "actix",
+    "file": "rs",
+    "name": "Actix Web",
+    "type": "framework",
+    "environment": "backend",
+    "short_description": "Pragmatic, high-speed web framework for Rust configurations.",
+    "description": "A robust, type-safe backend framework for the Rust ecosystem providing top-tier request speeds through type-safe structures, concurrent execution actors, and minimal memory processing.",
+    "svg": "actix"
+  },
+  {
+    "id": "phoenix",
+    "file": "ex",
+    "name": "Phoenix",
+    "type": "framework",
+    "environment": "backend",
+    "short_description": "Productive web framework delivering high concurrent channels.",
+    "description": "An advanced MVC web engine running on Elixir and the Erlang VM, capable of processing millions of concurrent WebSocket connection pathways simultaneously for live real-time applications.",
+    "svg": "phoenix"
+  },
+  {
+    "id": "react",
+    "file": "js",
+    "name": "React",
+    "type": "library",
+    "environment": "frontend",
+    "short_description": "Component-based UI rendering engine.",
+    "description": "An open-source, declarative JavaScript library developed by Meta for constructing scalable, state-driven user interfaces through an efficient Virtual DOM syncing algorithm.",
+    "svg": "react"
+  },
+  {
+    "id": "redux",
+    "file": "js",
+    "name": "Redux",
+    "type": "library",
+    "environment": "frontend",
+    "short_description": "Predictable state container for centralized JavaScript data.",
+    "description": "A predictable state management engine operating under strict unidirectional data flows, used to maintain consistent application contexts across highly complex user interfaces.",
+    "svg": "redux"
+  },
+  {
+    "id": "prisma",
+    "file": "ts",
+    "name": "Prisma",
+    "type": "library",
+    "environment": "backend",
+    "short_description": "Next-generation Node.js and TypeScript object-relational mapper.",
+    "description": "An open-source database toolkit that replaces traditional ORMs with an auto-generated, completely type-safe query client built directly from a declarative custom schema design.",
+    "svg": "prisma"
+  },
+  {
+    "id": "d3js",
+    "file": "js",
+    "name": "D3.js",
+    "type": "library",
+    "environment": "frontend",
+    "short_description": "Data-Driven Documents engine for vector graphics control.",
+    "description": "A powerful data visualization utility used to bind arbitrary real-time application data sets directly to the web DOM, manipulating dynamic SVG, HTML, and Canvas components.",
+    "svg": "d3js"
+  },
+  {
+    "id": "threejs",
+    "file": "js",
+    "name": "Three.js",
+    "type": "library",
+    "environment": "frontend",
+    "short_description": "Lightweight cross-browser 3D WebGL rendering engine.",
+    "description": "An essential client-side library used to create, animate, and view complex GPU-accelerated 3D computer graphics directly inside the web browser without standalone desktop apps.",
+    "svg": "threejs"
+  },
+  {
+    "id": "r3f",
+    "file": "ts",
+    "name": "React Three Fiber",
+    "type": "library",
+    "environment": "frontend",
+    "short_description": "Declarative Three.js wrapper built for React trees.",
+    "description": "A dedicated custom React renderer designed to compile declarative Three.js graphics scenes as reusable frontend layout components with integrated loop hooks and state contexts.",
+    "svg": "threejs"
+  },
+  {
+    "id": "axios",
+    "file": "js",
+    "name": "Axios",
+    "type": "library",
+    "environment": "cross-platform",
+    "short_description": "Promise-based HTTP request client engine.",
+    "description": "A modular data fetching utility that makes identical asynchronous HTTP network requests across both server-side Node.js systems and traditional client-side web browser applications.",
+    "svg": "axios"
+  },
+  {
+    "id": "jquery",
+    "file": "js",
+    "name": "jQuery",
+    "type": "library",
+    "environment": "frontend",
+    "short_description": "Classic event handling and DOM manipulation library.",
+    "description": "A legacy feature-rich JavaScript utility that greatly simplified cross-browser script manipulation, dynamic document tree navigation, animation styling, and Ajax requests.",
+    "svg": "jquery"
+  },
+  {
+    "id": "numpy",
+    "file": "py",
+    "name": "NumPy",
+    "type": "library",
+    "environment": "backend",
+    "short_description": "Fundamental scientific computing engine for Python scripts.",
+    "description": "A critical mathematical processing package supplying ultra-fast, multidimensional matrix arrays alongside complex mathematical functions optimized for heavy data science tasks.",
+    "svg": "numpy"
+  },
+  {
+    "id": "pandas",
+    "file": "py",
+    "name": "Pandas",
+    "type": "library",
+    "environment": "backend",
+    "short_description": "Data structure manipulation and data analysis engine.",
+    "description": "Built on top of NumPy, this analysis package delivers flexible, expressive data frames engineered to parse, clean, filter, and structure raw database tables rapidly.",
+    "svg": "pandas"
+  },
+  {
+    "id": "pytorch",
+    "file": "py",
+    "name": "PyTorch",
+    "type": "library",
+    "environment": "backend",
+    "short_description": "Open-source machine learning and tensor processing utility.",
+    "description": "An advanced deep learning engine engineered by Meta, providing GPU-accelerated tensor computations alongside dynamic neural network graphs for AI model creation.",
+    "svg": "pytorch"
+  },
+  {
+    "id": "tensorflow",
+    "file": "py",
+    "name": "TensorFlow",
+    "type": "library",
+    "environment": "backend",
+    "short_description": "End-to-end machine learning platform developed by Google.",
+    "description": "An enterprise-grade numerical computing system utilizing data flow graphs, widely implemented to scale neural network deployments, automation algorithms, and production AI models.",
+    "svg": "tensorflow"
+  },
+  {
+    "id": "rxjs",
+    "file": "js",
+    "name": "RxJS",
+    "type": "library",
+    "environment": "cross-platform",
+    "short_description": "Reactive Extensions library for composing asynchronous code.",
+    "description": "A dynamic programming engine that treats application events as observable collections, using functional operator streams to orchestrate complex async data pipelines safely.",
+    "svg": "rxjs"
+  },
+  {
+    "id": "framer-motion",
+    "file": "js",
+    "name": "Framer Motion",
+    "type": "library",
+    "environment": "frontend",
+    "short_description": "Production-ready animation engine built for React layout trees.",
+    "description": "A high-performance animation wrapper that simplifies declarative physics-based motion transitions, gestures, and layout state animations natively within React contexts.",
+    "svg": "framer"
+  },
+  {
+    "id": "lodash",
+    "file": "js",
+    "name": "Lodash",
+    "type": "library",
+    "environment": "cross-platform",
+    "short_description": "Modern JavaScript utility library delivering functional helpers.",
+    "description": "A lightweight functional utility kit that provides helpful programmatic operations for manipulating data arrays, object keys, numbers, and debouncing string inputs.",
+    "svg": "lodash"
+  },
+  {
+    "id": "nodejs",
+    "file": "js",
+    "name": "Node.js",
+    "type": "runtime",
+    "environment": "backend",
+    "short_description": "Asynchronous event-driven JavaScript runtime environment.",
+    "description": "An open-source, cross-platform runtime environment built on Google Chrome's V8 engine, designed to execute JavaScript server-side code and build scalable network applications.",
+    "svg": "nodejs"
+  },
+  {
+    "id": "git",
+    "file": "bash",
+    "name": "Git",
+    "type": "tool",
+    "environment": "cross-platform",
+    "short_description": "Distributed version control system tracking source code changes.",
+    "description": "A high-performance, decentralized version control engine engineered to track localized code file modifications, coordinate parallel branch merges, and manage project histories.",
+    "svg": "git"
+  },
+  {
+    "id": "docker",
+    "file": "bash",
+    "name": "Docker",
+    "type": "tool",
+    "environment": "cross-platform",
+    "short_description": "Containerization platform to deploy isolated app environments.",
+    "description": "An open-source platform automating application deployment inside lightweight, portable, and fully self-sufficient software containers that execute uniformly across any host OS.",
+    "svg": "docker"
+  },
+  {
+    "id": "vite",
+    "file": "ts",
+    "name": "Vite",
+    "type": "tool",
+    "environment": "frontend",
+    "short_description": "Next-generation frontend tooling and ultra-fast bundler.",
+    "description": "A modern development server and bundler that leverages native browser ES modules to deliver instant Hot Module Replacement (HMR) and optimized Rollup-powered production builds.",
+    "svg": "vite"
+  },
+  {
+    "id": "webpack",
+    "file": "js",
+    "name": "Webpack",
+    "type": "tool",
+    "environment": "frontend",
+    "short_description": "Static module bundler for modern JavaScript applications.",
+    "description": "An enterprise-grade dependency bundle analyzer that processes complex asset trees, transforming modules like scripts, stylesheets, and images into optimized static assets.",
+    "svg": "webpack"
+  },
+  {
+    "id": "npm",
+    "file": "json",
+    "name": "npm",
+    "type": "tool",
+    "environment": "cross-platform",
+    "short_description": "Default package manager for JavaScript software registries.",
+    "description": "The standard package management system for Node.js environments, consisting of a local command-line client used to install, share, and track versioned code dependencies.",
+    "svg": "npm"
+  },
+  {
+    "id": "yarn",
+    "file": "json",
+    "name": "Yarn",
+    "type": "tool",
+    "environment": "cross-platform",
+    "short_description": "Fast and secure dependency management alternative.",
+    "description": "An advanced alternative package manager providing fast, reliable, and highly secure dependency resolution through local lockfile integrity parsing and caching.",
+    "svg": "yarn"
+  },
+  {
+    "id": "pnpm",
+    "file": "json",
+    "name": "pnpm",
+    "type": "tool",
+    "environment": "cross-platform",
+    "short_description": "Fast, disk-space efficient package manager package system.",
+    "description": "A highly optimized node package manager using content-addressable hard links to save local hard drive space and speed up installation pipelines across multiple project hubs.",
+    "svg": "pnpm"
+  },
+  {
+    "id": "bun",
+    "file": "ts",
+    "name": "Bun",
+    "type": "tool",
+    "environment": "cross-platform",
+    "short_description": "All-in-one JavaScript runtime, bundler, and package tool.",
+    "description": "A blisteringly fast modern toolkit built using the WebKit JavaScriptCore engine, combining a native server runtime, script bundler, test runner, and package manager.",
+    "svg": "bun"
+  },
+  {
+    "id": "jest",
+    "file": "ts",
+    "name": "Jest",
+    "type": "tool",
+    "environment": "cross-platform",
+    "short_description": "Delightful JavaScript testing framework focused on simplicity.",
+    "description": "A comprehensive, zero-configuration JavaScript unit testing utility providing built-in mock assertions, execution isolation, and fast parallel test runners out of the box.",
+    "svg": "jest"
+  },
+  {
+    "id": "cypress",
+    "file": "ts",
+    "name": "Cypress",
+    "type": "tool",
+    "environment": "frontend",
+    "short_description": "Next-generation frontend testing tool for browser engines.",
+    "description": "A modern End-to-End (E2E) UI validation framework designed to execute automated integration tests natively directly inside browser rendering contexts without external drivers.",
+    "svg": "cypress"
+  },
+  {
+    "id": "eslint",
+    "file": "json",
+    "name": "ESLint",
+    "type": "tool",
+    "environment": "cross-platform",
+    "short_description": "Pluggable JavaScript code linting utility for error analysis.",
+    "description": "A static code analyzer that inspects codebase syntax trees against pluggable schema constraints to locate runtime bugs, flag architectural syntax errors, and enforce style rules.",
+    "svg": "eslint"
+  },
+  {
+    "id": "prettier",
+    "file": "json",
+    "name": "Prettier",
+    "type": "tool",
+    "environment": "cross-platform",
+    "short_description": "Opinionated code formatter ensuring stylistic uniformity.",
+    "description": "An automated syntax parsing script that formats raw development code sheets cleanly into strict style patterns, removing structural spacing discrepancies automatically.",
+    "svg": "prettier"
+  },
+  {
+    "id": "postman",
+    "file": "json",
+    "name": "Postman",
+    "type": "tool",
+    "environment": "cross-platform",
+    "short_description": "API client platform to build and test HTTP web requests.",
+    "description": "An interactive environment designed to design, test, document, and debug client-side web application requests across rest, graphql, and websocket API pipelines.",
+    "svg": "postman"
+  },
+  {
+    "id": "postgressql",
+    "file": "sql",
+    "name": "PostgreSQL",
+    "type": "database",
+    "environment": "backend",
+    "short_description": "Powerful open-source object-relational database engine.",
+    "description": "An enterprise-grade, highly reliable relational data management engine implementing SQL compliance to safely manipulate deeply structured relational database models.",
+    "svg": "postgresql"
+  },
+  {
+    "id": "vscode",
+    "file": "json",
+    "name": "Visual Studio Code",
+    "type": "ide",
+    "environment": "desktop",
+    "short_description": "Extensible, open-source code editor developed by Microsoft.",
+    "description": "A highly customizable desktop editor featuring a massive extensions ecosystem, native Git integration, built-in terminal support, and advanced IntelliSense code completion.",
+    "svg": "vscode"
+  },
+  {
+    "id": "visualstudio",
+    "file": "cs",
+    "name": "Visual Studio",
+    "type": "ide",
+    "environment": "desktop",
+    "short_description": "Full-featured integrated development environment for .NET applications.",
+    "description": "Microsoft's flagship heavy-duty IDE engineered for large-scale enterprise systems, offering robust compiler diagnostics, profiling tools, and designer surfaces for C#.",
+    "svg": "visualstudio"
+  },
+  {
+    "id": "webstorm",
+    "file": "js",
+    "name": "WebStorm",
+    "type": "ide",
+    "environment": "desktop",
+    "short_description": "JetBrains' smart integrated development environment for JavaScript.",
+    "description": "An intelligent, commercial IDE providing deep coding assistance, advanced refactoring tools, and built-in testing setups for JavaScript, TypeScript, and ecosystem frameworks.",
+    "svg": "webstorm"
+  },
+  {
+    "id": "intellij",
+    "file": "java",
+    "name": "IntelliJ IDEA",
+    "type": "ide",
+    "environment": "desktop",
+    "short_description": "Capable and ergonomic IDE optimized for Java platform development.",
+    "description": "A top-tier development suite renowned for its smart code analysis, powerful refactoring pipelines, and seamless integration with corporate build systems like Gradle.",
+    "svg": "intellij"
+  },
+  {
+    "id": "androidstudio",
+    "file": "kt",
+    "name": "Android Studio",
+    "type": "ide",
+    "environment": "desktop",
+    "short_description": "Official IDE framework for native Android app compilation.",
+    "description": "Built on IntelliJ software, this environment packs specialized tools for device emulation layout layout inspection, and comprehensive Gradle build tracks for mobile apps.",
+    "svg": "androidstudio"
+  },
+  {
+    "id": "xcode",
+    "file": "swift",
+    "name": "Xcode",
+    "type": "ide",
+    "environment": "desktop",
+    "short_description": "Apple's integrated platform engine for macOS and iOS apps.",
+    "description": "The proprietary development hub for compiling Apple ecosystems, packing dynamic UI canvas previews, device simulators, and internal performance profiling tracks.",
+    "svg": "xcode"
+  },
+  {
+    "id": "pycharm",
+    "file": "py",
+    "name": "PyCharm",
+    "type": "ide",
+    "environment": "desktop",
+    "short_description": "Dedicated Python development suite built by JetBrains.",
+    "description": "A feature-rich environment supplying active code verification, integrated debugger suites, and deep package handling configurations designed for Python engineers.",
+    "svg": "pycharm"
+  },
+  {
+    "id": "vim",
+    "file": "bash",
+    "name": "Vim",
+    "type": "ide",
+    "environment": "tool",
+    "short_description": "Ubiquitous, keyboard-driven terminal text editor engine.",
+    "description": "A highly efficient modal terminal text editor designed to maximize speed by eliminating mouse workflows, standard across practically all Unix terminal infrastructures.",
+    "svg": "vim"
+  },
+  {
+    "id": "neovim",
+    "file": "lua",
+    "name": "Neovim",
+    "type": "ide",
+    "environment": "tool",
+    "short_description": "Vim-fork focused on modern extensibility and script hooks.",
+    "description": "A modern re-engineering of traditional Vim, enabling async background processes, internal Lua scripting control, and deep built-in LSP language support configurations.",
+    "svg": "neovim"
+  },
+  {
+    "id": "eclipse",
+    "file": "java",
+    "name": "Eclipse",
+    "type": "ide",
+    "environment": "desktop",
+    "short_description": "Classic extensible open-source Java application workspace.",
+    "description": "A long-standing enterprise workbench framework driven by a robust plugin architecture, highly popular for classic Java applications and corporate system legacy codebases.",
+    "svg": "eclipse"
+  },
+  {
+    "id": "deno",
+    "file": "ts",
+    "name": "Deno",
+    "type": "runtime",
+    "environment": "backend",
+    "short_description": "Secure V8 runtime engine for JavaScript and TypeScript files.",
+    "description": "A modern, secure-by-default runtime created by Node's original inventor, supporting out-of-the-box TypeScript execution and web standard APIs without explicit configs.",
+    "svg": "deno"
+  },
+  {
+    "id": "jvm",
+    "file": "java",
+    "name": "JVM",
+    "type": "runtime",
+    "environment": "backend",
+    "short_description": "Java Virtual Machine executing compiled bytecode layers.",
+    "description": "The foundational computing engine that drives the execution of compiled Java bytecode, enabling universal platform compatibility across hardware infrastructure configurations.",
+    "svg": "openjdk"
+  },
+  {
+    "id": "dotnet",
+    "file": "cs",
+    "name": ".NET Runtime",
+    "type": "runtime",
+    "environment": "cross-platform",
+    "short_description": "Microsoft execution infrastructure for C# and F# programs.",
+    "description": "The open-source multi-platform execution engine governing memory management, type safety rules, and native compilation pipelines across modern .NET applications.",
+    "svg": "dot-net"
+  },
+  {
+    "id": "dockerengine",
+    "file": "bash",
+    "name": "Docker Engine",
+    "type": "runtime",
+    "environment": "cross-platform",
+    "short_description": "Core container virtualization layer hosting container spaces.",
+    "description": "The low-level host engine driving local system container processes, managing storage isolation channels, and handling network routing boundaries for Docker setups.",
+    "svg": "docker"
+  },
+  {
+    "id": "webassembly",
+    "file": "wasm",
+    "name": "WebAssembly",
+    "type": "runtime",
+    "environment": "frontend",
+    "short_description": "Low-level binary code execution layout inside modern browsers.",
+    "description": "A compact stack-based execution sandbox enabling near-native processing speeds for compiled low-level languages like C++ and Rust directly inside secure browser windows.",
+    "svg": "wasm"
+  },
+  {
+    "id": "erlangvm",
+    "file": "ex",
+    "name": "Erlang VM (BEAM)",
+    "type": "runtime",
+    "environment": "backend",
+    "short_description": "Concurrent execution engine driving real-time message architectures.",
+    "description": "The battle-tested virtual engine designed to host massive distributed systems, driving high-concurrency loops and system fault tolerance parameters.",
+    "svg": "erlang"
+  },
+  {
+    "id": "goruntime",
+    "file": "go",
+    "name": "Go Runtime",
+    "type": "runtime",
+    "environment": "backend",
+    "short_description": "Internal execution tracking model driving Golang binary targets.",
+    "description": "The custom runtime layer baked directly inside compiled Go execution binaries, governing background memory sweep operations and light goroutine concurrency channels.",
+    "svg": "go"
+  },
+  {
+    "id": "pypy",
+    "file": "py",
+    "name": "PyPy",
+    "type": "runtime",
+    "environment": "backend",
+    "short_description": "Alternative Python compilation runtime with Just-In-Time compiling.",
+    "description": "An alternative, highly performant replacement for traditional CPython executions, using a JIT compiler to accelerate processing metrics across Python script spaces.",
+    "svg": "python"
+  },
+  {
+    "id": "mongodb",
+    "file": "json",
+    "name": "MongoDB",
+    "type": "database",
+    "environment": "backend",
+    "short_description": "Document-based NoSQL database for flexible data schemas.",
+    "description": "An open-source database storing information inside JSON-like BSON documents, facilitating fast schema transformations and rapid application iterations.",
+    "svg": "mongodb"
+  },
+  {
+    "id": "mysql",
+    "file": "sql",
+    "name": "MySQL",
+    "type": "database",
+    "environment": "backend",
+    "short_description": "Classic, open-source relational SQL database server.",
+    "description": "One of the most widely deployed relational storage systems, powering foundational web apps and CMS tools through traditional table relations.",
+    "svg": "mysql"
+  },
+  {
+    "id": "redis",
+    "file": "json",
+    "name": "Redis",
+    "type": "database",
+    "environment": "backend",
+    "short_description": "In-memory key-value data structure store and cache engine.",
+    "description": "An ultra-fast in-memory data pipeline utilized as a high-speed cache database server, managing real-time states and session keys instantly.",
+    "svg": "redis"
+  },
+  {
+    "id": "firebase",
+    "file": "json",
+    "name": "Firebase",
+    "type": "cloud",
+    "environment": "cross-platform",
+    "short_description": "Google's backend-as-a-service suite for application frameworks.",
+    "description": "A comprehensive cloud operations workspace housing real-time document databases, instant user auth handlers, and automated cloud file storage pipelines.",
+    "svg": "firebase"
+  },
+  {
+    "id": "supabase",
+    "file": "sql",
+    "name": "Supabase",
+    "type": "cloud",
+    "environment": "backend",
+    "short_description": "Open-source Firebase alternative powered by PostgreSQL engines.",
+    "description": "A modern full-stack cloud hub wrapping real-time database capabilities, user auth control layers, and storage management systems straight around core Postgres systems.",
+    "svg": "supabase"
+  },
+  {
+    "id": "aws",
+    "file": "json",
+    "name": "Amazon Web Services",
+    "type": "cloud",
+    "environment": "backend",
+    "short_description": "Comprehensive, global cloud computing infrastructure framework.",
+    "description": "The industry's most massive cloud ecosystem, offering extensive server computing arrays, complex database systems, and worldwide file distribution setups.",
+    "svg": "amazonwebservices"
+  },
+  {
+    "id": "gcp",
+    "file": "json",
+    "name": "Google Cloud Platform",
+    "type": "cloud",
+    "environment": "backend",
+    "short_description": "Google's global suite of advanced cloud computing resources.",
+    "description": "A modular cloud utility infrastructure providing advanced analytics machines, container management tracks via Kubernetes, and high-performance server clusters.",
+    "svg": "googlecloud"
+  },
+  {
+    "id": "azure",
+    "file": "json",
+    "name": "Microsoft Azure",
+    "type": "cloud",
+    "environment": "backend",
+    "short_description": "Enterprise-grade cloud platform built by Microsoft architectures.",
+    "description": "A comprehensive corporate cloud fabric tailored for seamless active directory integration, complex VM spaces, and enterprise service meshes.",
+    "svg": "azure"
+  },
+  {
+    "id": "vercel",
+    "file": "json",
+    "name": "Vercel",
+    "type": "cloud",
+    "environment": "frontend",
+    "short_description": "Cloud hosting platform optimized for frontend framework sites.",
+    "description": "A fast developer-centric cloud hub featuring native Git continuous deployment hooks, serverless edge function execution, and global CDN delivery loops.",
+    "svg": "vercel"
+  }
+]

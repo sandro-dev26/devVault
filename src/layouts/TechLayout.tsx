@@ -1,12 +1,9 @@
 import { Outlet } from "react-router-dom";
-import Navbar from "../components/Navbar";
 import Foooter from "../components/Footer";
 
-function Mainlayout() {
+function TechLayout() {
   return (
     <div className="bg-slate-950 text-slate-50 w-full min-h-screen p-4">
-      <Navbar />
-
       <Outlet />
 
       <Foooter />
@@ -14,4 +11,4 @@ function Mainlayout() {
   );
 }
 
-export default Mainlayout;
+export default TechLayout;

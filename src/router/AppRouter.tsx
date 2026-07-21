@@ -1,11 +1,12 @@
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Home from "../pages/Home";
 import About from "../pages/About";
-import LogIn from "../pages/Login";
 import NotFound from "../pages/NotFound";
 import Error404Explained from "../pages/NotfoundExplained";
+import TecnologyPage from "../pages/TecnologyPage";
+import TecnologyDetails from "../pages/TechnologyDetails";
 import MainRoute from "../layouts/MainLayout";
-import Authlayout from "../layouts/AuthLayout";
+import TechLayout from "../layouts/TechLayout";
 
 function AppRouter() {
   return (
@@ -16,8 +17,9 @@ function AppRouter() {
           <Route path="/about" element={<About />} />
         </Route>
 
-        <Route element={<Authlayout />}>
-          <Route path="/login" element={<LogIn />} />
+        <Route element={<TechLayout />}>
+          <Route path="/:sectionId" element={<TecnologyPage />} />
+          <Route path="/:sectionId/:id" element={<TecnologyDetails />} />
         </Route>
 
         <Route path="*" element={<NotFound />} />
