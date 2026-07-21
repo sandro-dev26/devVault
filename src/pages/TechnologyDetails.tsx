@@ -60,7 +60,8 @@ function TecnologyDetails() {
             </p>
             <p className="text-md font-light">
               <span className="font-normal">Is: </span>
-              {item.type}
+              {item.type.charAt(0).toUpperCase() +
+                item.type.slice(1).toLowerCase()}
             </p>
           </div>
         </div>
