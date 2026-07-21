@@ -19,7 +19,7 @@ function Home() {
         <span>
           <img src="/favicon.svg" className="w-12 h-12" />
         </span>
-        Dev Vault
+        DevVault
       </h1>
 
       <h2 className="text-2xl">Coding Tecnologies</h2>
