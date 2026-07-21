@@ -2,7 +2,7 @@ import { Link } from "react-router-dom";
 
 function Error404Explained() {
   return (
-    <div className="flex flex-col p-4 bg-slate-900 w-full h-screen text-neutral-50">
+    <div className="flex flex-col p-4 bg-slate-950 w-full h-screen text-neutral-50">
       <h1 className="text-xl mb-4 font-semibold">What is 404?</h1>
       <p>
         404 is a standard HTTP status code. When your browser sends a request to
