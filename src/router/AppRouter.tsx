@@ -23,6 +23,7 @@ function AppRouter() {
         </Route>
 
         <Route path="*" element={<NotFound />} />
+        <Route path="/404" element={<NotFound />} />
         <Route path="/errors/404" element={<Error404Explained />} />
       </Routes>
     </BrowserRouter>
